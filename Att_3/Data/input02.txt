@@ -1,0 +1,7 @@
+1	Samson  64	8	3		6890
+2	Asos Mango M4   32	3		3990
+3	Lenovo C7 mix	8	5		7220
+4	Albion Ninna    16	2		2390
+5	Samsung Aurora 	8	1		990
+6	Ubuntu V6	4	3		2490
+7	Luck You	16	3		1990

@@ -1,0 +1,7 @@
+1	Samsung Aurora  16	3		7890
+2	Asos Star       32	4		5990
+3	Lenovo C7 Pro	64	5		4220
+4	Albion Ninna    8	2		2390
+5	Sony Drake 	64	5		3590
+6	Ubuntu V6	4	3		1490
+7	Fuck You	2	2		1990
